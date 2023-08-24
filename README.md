@@ -45,10 +45,7 @@ repo = "isl-org/ZoeDepth"
 model_zoe_n = torch.hub.load(repo, "ZoeD_N", pretrained=True)
 ```
 ### Using local copy
-Clone this repo:
-```bash
-git clone https://github.com/isl-org/ZoeDepth.git && cd ZoeDepth
-```
+Clone this repo
 #### Using local torch hub
 You can use local source for torch hub to load the ZoeDepth models, for example: 
 ```python
