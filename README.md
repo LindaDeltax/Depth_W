@@ -5,7 +5,7 @@ First install miniconda in your laptop
 =====================
 Installing on Mac
 =====================
-[Links](http://localhost/)
+[Links][MaC(https://github.com/LindaDeltax/Depth_W/blob/a465bac2231204ec264741666b21e3b5dd0f4ad1/macos.rst)]
 =====================
 Installing on Windows
 =====================
