@@ -1,4 +1,4 @@
-name: zoe
+name: DemoDepth
 channels:
   - pytorch
   - nvidia
