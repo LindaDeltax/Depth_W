@@ -1,13 +1,11 @@
 # Depth_W
-Deploy the Depth Map on Web
+**Deploy the Depth Map on Web**
 
+First install miniconda in your laptop
 =====================
 Installing on Mac
 =====================
-
-
-
-
+[Links](http://localhost/)
 =====================
 Installing on Windows
 =====================
